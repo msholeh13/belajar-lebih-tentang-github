@@ -7,9 +7,9 @@ Let's go....
   c. menambah commit
   d. mengedit file di github
   e. melihat insights
+  f. belajar branch
   
 
 
 - Apa yang ingin dipelajari -
-  a. belajar branch
-  b. melihat network di bagian insights
+  a. fork
