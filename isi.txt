@@ -8,6 +8,8 @@ Let's go....
   d. mengedit file di github
   e. melihat insights
   f. belajar branch
+  g. belajar pull request
+  h. belajar menghapus branch
   
 
 
