@@ -2,7 +2,11 @@ mari kita mulai belajar github lebih jauh
 Let's go....
 
 - Apa yang telah dipelajari -
-
+  a. create new repository
+  b. buat file langsung di github
+  c. menambah commit
+  d. mengedit file di github
+  
 
 
 - Apa yang ingin dipelajari -
